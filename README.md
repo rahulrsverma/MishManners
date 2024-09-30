@@ -151,3 +151,5 @@ As for the charts :pie:, if you like my A++ stats, then you can make your own by
 
 <!-- platane/snk works, it just puts it on a new branch -->
 ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-snake.svg)
+
+Can you give your contact ????
